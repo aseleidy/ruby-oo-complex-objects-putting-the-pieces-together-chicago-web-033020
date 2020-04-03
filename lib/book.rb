@@ -8,6 +8,7 @@ class Book
   
   def turn_page
     @page_count += 1 
+    puts ""
   end 
 end
 
